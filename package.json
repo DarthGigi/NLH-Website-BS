@@ -1,0 +1,19 @@
+{
+  "name": "nlh-website-bs",
+  "version": "1.0.0",
+  "description": "This website is the official NoLifeHumans website for the Brawl Stars branch",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./assets/styles/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarthGigi/NLH-Website-BS.git"
+  },
+  "author": "Gigi",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/DarthGigi/NLH-Website-BS/issues"
+  },
+  "homepage": "https://github.com/DarthGigi/NLH-Website-BS#readme"
+}
